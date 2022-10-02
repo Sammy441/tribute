@@ -1,0 +1,49 @@
+
+img {
+    width: 100px;
+    height: 100px;
+    background-color: grey;
+}
+.caption {
+    display: block;
+}
+
+body{
+    background-color:brown ;
+    text-align: center;
+}
+h1{
+ color: white;
+ font-size: 3rem;
+}
+h4{
+    color: white;
+}
+p{
+    color: white;
+
+}
+h3{
+    color: white;
+    font-size: 3rem;
+}
+div.container {
+    text-align: center;
+  }
+  
+  ul.myUL {
+    
+    margin:0 auto;
+    width:70%;
+    text-align:center;
+    padding:0;
+}
+li{
+    color: white;
+    font-size: 2rem;
+}
+h5{
+    color: white;
+}
+
+
